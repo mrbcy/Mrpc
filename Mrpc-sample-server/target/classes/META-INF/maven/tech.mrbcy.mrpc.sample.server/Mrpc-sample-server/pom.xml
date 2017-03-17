@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>tech.mrbcy.mrpc.sample.server</groupId>
+  <artifactId>Mrpc-sample-server</artifactId>
+  <version>1.0.0</version>
+  <build/>
+  <dependencies>
+  		<dependency>
+            <groupId>tech.mrbcy.mrpc</groupId>
+            <artifactId>Mrpc</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>tech.mrbcy.mrpc.sample.common</groupId>
+            <artifactId>Mrpc-sample-common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+  </dependencies>
+</project>
